@@ -138,6 +138,8 @@ function updateUserInfo(id) {
 
     modalClose();
     window.location.reload();
+
+    
 }
 
 function deleteUser(id) {
